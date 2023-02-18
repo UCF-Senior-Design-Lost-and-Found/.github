@@ -1,4 +1,12 @@
-## Hi there 👋
+# UCF Fall 2023 Senior Design - Lost and Found Improvement
+
+Group Members:
+- Rex Bianchi
+- Joseph Maria
+- Daniella Ostos
+- Juan Guarnizo
+- Brandon Rubio
+- Pedro Fachetti Carvalho
 
 <!--
 
