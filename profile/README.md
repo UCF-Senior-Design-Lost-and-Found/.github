@@ -3,7 +3,7 @@
 Group Members:
 - Rex Bianchi
 - Joseph Maria
-- Daniella Ostos
+- Daniela Ostos
 - Juan Guarnizo
 - Brandon Rubio
 - Pedro Fachetti Carvalho
